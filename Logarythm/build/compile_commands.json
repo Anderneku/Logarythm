@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/bossmans/projects/example/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/bossmans/projects/example/build -I/home/bossmans/projects/example -I/home/bossmans/projects/example/build/example_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/example.dir/example_autogen/mocs_compilation.cpp.o -c /home/bossmans/projects/example/build/example_autogen/mocs_compilation.cpp",
+  "file": "/home/bossmans/projects/example/build/example_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/bossmans/projects/example/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/bossmans/projects/example/build -I/home/bossmans/projects/example -I/home/bossmans/projects/example/build/example_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/example.dir/src/main.cpp.o -c /home/bossmans/projects/example/src/main.cpp",
+  "file": "/home/bossmans/projects/example/src/main.cpp"
+},
+{
+  "directory": "/home/bossmans/projects/example/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/bossmans/projects/example/build -I/home/bossmans/projects/example -I/home/bossmans/projects/example/build/example_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/example.dir/src/example.cpp.o -c /home/bossmans/projects/example/src/example.cpp",
+  "file": "/home/bossmans/projects/example/src/example.cpp"
+}
+]

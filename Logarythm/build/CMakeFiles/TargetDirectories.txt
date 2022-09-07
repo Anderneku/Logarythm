@@ -1,0 +1,9 @@
+/home/bossmans/projects/example/build/CMakeFiles/example.dir
+/home/bossmans/projects/example/build/CMakeFiles/edit_cache.dir
+/home/bossmans/projects/example/build/CMakeFiles/rebuild_cache.dir
+/home/bossmans/projects/example/build/CMakeFiles/list_install_components.dir
+/home/bossmans/projects/example/build/CMakeFiles/install.dir
+/home/bossmans/projects/example/build/CMakeFiles/install/local.dir
+/home/bossmans/projects/example/build/CMakeFiles/install/strip.dir
+/home/bossmans/projects/example/build/CMakeFiles/example_autogen_timestamp_deps.dir
+/home/bossmans/projects/example/build/CMakeFiles/example_autogen.dir

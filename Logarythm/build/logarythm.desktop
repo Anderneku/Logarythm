@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Logarythm
+GenericName=Calculator
+Comment=Calculate log and antilog
+Exec=/home/bossmans/projects/example/build/example
+Icon=/home/bossmans/projects/example/build/bitmap.png
+Type=Application
+Terminal=False

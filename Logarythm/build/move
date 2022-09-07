@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+EXECUT=$PWD
+echo "$EXECUT"
+
+echo "[Desktop Entry]
+Name=Logarythm
+GenericName=Calculator
+Comment=Calculate log and antilog
+Exec=$EXECUT/example
+Icon=$EXECUT/bitmap.png
+Type=Application
+Terminal=False">logarythm.desktop
+
+cp logarythm.desktop /usr/share/applications
